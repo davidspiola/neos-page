@@ -1,1 +1,3 @@
 include: NodeTypes/*
+
+prototype(Webandco.Page:Body) < prototype(Neos.Fusion:Join)
